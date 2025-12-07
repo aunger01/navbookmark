@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "navbookmark",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "84f5b6a8-d232-46b0-8a8b-13455ba5d525",
+			"database_name": "bookmark-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
